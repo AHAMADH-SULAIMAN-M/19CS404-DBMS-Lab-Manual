@@ -108,7 +108,10 @@ CREATE TABLE Table_Name (
 -- Paste Question 1 here
 
 ```sql
--- Paste your SQL code below for Question 1
+INSERT INTO Employee(EmployeeID, Name, Department, Salary)
+SELECT EmployeeID, Name, Department,Salary
+FROM Former_employees;
+
 ```
 
 **Output:**
