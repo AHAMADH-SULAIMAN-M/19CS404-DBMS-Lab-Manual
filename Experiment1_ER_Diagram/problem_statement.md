@@ -41,60 +41,60 @@ Hospital
 
 ## Entities and Attributes:
 Patient:
- PatientID (PK)
- FullName
- DateOfBirth
- Gender
- Address
- PhoneNumber
- Email
- InsuranceDetails
+1. PatientID (PK)
+2. FullName
+3. DateOfBirth
+4. Gender
+5. Address
+6. PhoneNumber
+7. Email
+8.InsuranceDetails
 
 Doctor:
- DoctorID (PK)
- FullName
- Specialization
- PhoneNumber
- Email
- WorkSchedule
+1. DoctorID (PK)
+2. FullName
+3. Specialization
+4. PhoneNumber
+5. Email
+6. WorkSchedule
 
 Department:
- DepartmentID (PK)
- DepartmentName
- DepartmentHead
+1. DepartmentID (PK)
+2. DepartmentName
+3. DepartmentHead
 
 Appointment:
- AppointmentID (PK)
- AppointmentDate
- AppointmentTime
- ReasonForVisit
- AdditionalNotes
- PatientID (FK)
- DoctorID (FK)
+1. AppointmentID (PK)
+2. AppointmentDate
+3. AppointmentTime
+4. ReasonForVisit
+5. AdditionalNotes
+6. PatientID (FK)
+7. DoctorID (FK)
 
 MedicalRecord:
- MedicalRecordID (PK)
- Diagnosis
- PrescribedMedications
- Treatments
+1. MedicalRecordID (PK)
+2. Diagnosis
+3. PrescribedMedications
+4. Treatments
 
 TestResults:
- OtherMedicalInformation
- PatientID (FK)
- DoctorID (FK)
+1. OtherMedicalInformation
+2. PatientID (FK)
+3. DoctorID (FK)
 
 Billing:
- BillingID (PK)
- AppointmentID (FK)
- TotalAmount
- BillingDate
+1. BillingID (PK)
+2. AppointmentID (FK)
+3. TotalAmount
+4. BillingDate
 
 Payment:
- PaymentID (PK)
- BillingID (FK)
- PaymentDate
- PaymentAmount
- PaymentMethod
+1. PaymentID (PK)
+2. BillingID (FK)
+3. PaymentDate
+4. PaymentAmount
+5. PaymentMethod
 
 ...
 
