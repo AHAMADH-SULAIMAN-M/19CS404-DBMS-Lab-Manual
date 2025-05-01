@@ -206,7 +206,8 @@ WHERE surgery_date = '2024-02-28';
 ![Screenshot 2025-05-01 221517](https://github.com/user-attachments/assets/08960995-2031-4f64-949d-6f66e6be4445)
 
 
-![Uploading Screenshot 2025-05-01 221529.png…]()
+![Screenshot 2025-05-01 221529](https://github.com/user-attachments/assets/9e345b70-46be-4193-9311-c01b7c1d55bd)
+
 
 
 ## RESULT
