@@ -1,4 +1,4 @@
-![439860560-f36a0945-3d50-4478-9165-da60dbd60abe](https://github.com/user-attachments/assets/53bde98f-febf-4558-8da6-99c8f2870441)# Experiment 7: PL/SQL – Variables, Control Structures and Loops
+# Experiment 7: PL/SQL – Variables, Control Structures and Loops
 
 ## AIM
 To write and execute simple PL/SQL programs using variables, loops, and conditional statements.
