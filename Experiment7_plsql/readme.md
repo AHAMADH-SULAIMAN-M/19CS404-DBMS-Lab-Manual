@@ -1,4 +1,4 @@
-# Experiment 7: PL/SQL – Variables, Control Structures and Loops
+![439860560-f36a0945-3d50-4478-9165-da60dbd60abe](https://github.com/user-attachments/assets/53bde98f-febf-4558-8da6-99c8f2870441)# Experiment 7: PL/SQL – Variables, Control Structures and Loops
 
 ## AIM
 To write and execute simple PL/SQL programs using variables, loops, and conditional statements.
@@ -37,22 +37,9 @@ END;
 **Expected Output:**  
 Greater number is: 80
 
-## PROGRAM:
-  DECLARE
-   num1 NUMBER := 80;
-   num2 NUMBER := 45;
-BEGIN
-   IF num1 > num2 THEN
-      DBMS_OUTPUT.PUT_LINE('Greater number is: ' || num1);
-   ELSIF num2 > num1 THEN
-      DBMS_OUTPUT.PUT_LINE('Greater number is: ' || num2);
-   ELSE
-      DBMS_OUTPUT.PUT_LINE('Both numbers are equal: ' || num1);
-   END IF;
-END;
-/
-## OUTPUT: 
-Greater number is: 80
+![439859021-44fcbc07-4b38-4438-883c-4e587a2d5018](https://github.com/user-attachments/assets/f45e0f6f-6c04-44d3-bc40-143b43dd37df)
+
+
 ---
 
 ## 2. Write a PL/SQL program to Calculate Sum of First N Natural Numbers
@@ -65,6 +52,8 @@ Greater number is: 80
 
 **Expected Output:**  
 Sum of first 10 natural numbers is: 55
+
+![439859287-4f699769-2b39-4cb4-8822-8f9de284ab3b](https://github.com/user-attachments/assets/e8dac37b-bc03-4fb0-96a6-32c12050cc60)
 
 ---
 
@@ -80,6 +69,8 @@ Sum of first 10 natural numbers is: 55
 n = 7  
 Fibonacci sequence: 0, 1, 1, 2, 3, 5, 8
 
+![439860971-79af3aa7-1ecc-4f4c-aedc-b2e5b58a1b42](https://github.com/user-attachments/assets/88642474-9043-46af-b3a0-ae45fbbacd73)
+
 ---
 
 ## 4. Write a PL/SQL Program to display the number in Reverse Order
@@ -93,6 +84,9 @@ Fibonacci sequence: 0, 1, 1, 2, 3, 5, 8
 n = 1535  
 Reversed number is 5351
 
+
+![439859970-54784661-a9fc-4c3e-a2bc-65f48c6c6cb1](https://github.com/user-attachments/assets/43ac39e7-8764-46be-883d-feeccf19bc0b)
+
 ---
 
 ## 5. Write a PL/SQL program to find the largest of three numbers
@@ -105,6 +99,10 @@ Reversed number is 5351
 **Expected Output:**  
 a = 10, b = 9, c = 15  
 Largest of three number is 15
+
+![439860560-f36a0945-3d50-4478-9165-da60dbd60abe](https://github.com/user-attachments/assets/c8d9c3f7-0beb-4036-a980-b90ee05ddba2)
+
+
 
 ## RESULT
 Thus, the PL/SQL programs using variables, conditionals, and loops were executed successfully.
