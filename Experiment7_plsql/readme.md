@@ -37,7 +37,7 @@ END;
 **Expected Output:**  
 Greater number is: 80
 
-PROGRAM:
+## PROGRAM:
   DECLARE
    num1 NUMBER := 80;
    num2 NUMBER := 45;
@@ -51,7 +51,7 @@ BEGIN
    END IF;
 END;
 /
-OUTPUT: 
+## OUTPUT: 
 Greater number is: 80
 ---
 
