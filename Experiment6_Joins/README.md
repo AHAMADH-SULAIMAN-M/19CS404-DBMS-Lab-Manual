@@ -298,6 +298,7 @@ WHERE
 ![Screenshot 2025-05-02 193249](https://github.com/user-attachments/assets/772bacac-64e7-4dbf-9a56-08649bff8477)
 
 
+![Screenshot 2025-05-02 193306](https://github.com/user-attachments/assets/256342e8-70ce-409b-a09d-4c0699394667)
 
 ## RESULT
 Thus, the SQL queries to implement different types of joins have been executed successfully.
