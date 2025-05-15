@@ -63,8 +63,22 @@ Key Differences:
 **Expected Output:**  
 Square of 6 is 36
 
+```
+CREATE OR REPLACE PROCEDURE find_square(p_number IN NUMBER) IS
+    v_square NUMBER;
+BEGIN
+    v_square := p_number * p_number;
+    DBMS_OUTPUT.PUT_LINE('Square of ' || p_number || ' is ' || v_square);
+END;
+/
+SET SERVEROUTPUT ON;
 
-![image](https://github.com/user-attachments/assets/b7002e09-147a-43f4-803a-83b0b08b9b2b)
+BEGIN
+    find_square(6);
+END;
+/
+```
+![image](https://github.com/user-attachments/assets/d6436d5d-b540-43d7-a396-2a8debfbb20a)
 
 ---
 
