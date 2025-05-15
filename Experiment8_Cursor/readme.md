@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/0ce12f09-d7d5-4633-ba0d-44da70c38a54)# Experiment 8: PL/SQL Cursor Programs
+# Experiment 8: PL/SQL Cursor Programs
 
 ## AIM
 To write and execute PL/SQL programs using cursors and exception handling to manage runtime errors effectively and display appropriate messages.
