@@ -90,7 +90,8 @@ n = 1535
 Reversed number is 5351
 
 
-![Screenshot 2025-05-15 133350](https://github.com/user-attachments/assets/43c2fe3c-01e1-4584-8e8e-9ee27e1ba4f2)
+![Screenshot 2025-05-15 133722](https://github.com/user-attachments/assets/1eb89bbe-deb1-4ab5-b641-4327b3272bef)
+
 
 
 ---
