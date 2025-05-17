@@ -175,6 +175,7 @@ WHERE customer_id = (
 
 **Question 8**
 ---
+![image](https://github.com/user-attachments/assets/44bf021e-b519-4083-aae5-d6a6438feb79)
 
 
 ```sql
@@ -194,6 +195,7 @@ HAVING COUNT(c.customer_id) > 1;
 **Question 9**
 ---
 
+![image](https://github.com/user-attachments/assets/21e92d27-df91-4909-8265-e38a7ab0814b)
 
 ```sql
 SELECT *
@@ -213,6 +215,7 @@ WHERE city <> (
 
 **Question 10**
 ---
+![image](https://github.com/user-attachments/assets/b60dfe0b-21fd-43a6-89ed-9f25f41931ed)
 
 
 ```sql
