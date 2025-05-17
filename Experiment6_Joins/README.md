@@ -269,7 +269,8 @@ INNER JOIN
 
 **Output:**
 
-![Uploading Screenshot 2025-05-02 193241.png…]()
+![image](https://github.com/user-attachments/assets/d9b0a4a2-a109-43af-8a4b-ec18bc654353)
+
 
 
 **Question 10**
